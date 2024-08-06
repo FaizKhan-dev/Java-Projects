@@ -1,0 +1,57 @@
+
+# Project Report: Currency Converter
+
+## 1. Introduction
+- Overview of the project and its purpose.
+- Explanation of the need for a currency converter application.
+- Objectives of the project.
+
+## 2. Problem Statement
+- Challenges associated with manual currency conversion.
+- Common issues faced by users.
+- Importance of developing a user-friendly currency converter application.
+
+## 3. Project Overview
+- Description of the project structure.
+- Explanation of the main components: `Currency`, `ConversionHistory`, and `CurrencyConverter`.
+- Overview of the user interface and functionality.
+
+## 4. OOP Principles Applied
+- Explanation of encapsulation, inheritance, and polymorphism.
+- Illustration of how these principles are implemented in the project.
+- Examples of how OOP principles enhance the project's design and functionality.
+
+## 5. Class and Method Details
+### 5.1. Currency Class
+- Description of the attributes (`name` and `usdRate`) and methods (`getName()` and `getUsdRate()`).
+- Role of the `Currency` class in representing various currencies.
+
+### 5.2. ConversionHistory Class
+- Explanation of the attributes (`sourceCurrency`, `targetCurrency`, `amount`, and `convertedAmount`) and methods (`toString()`).
+- Importance of tracking conversion transactions using the `ConversionHistory` class.
+
+## 6. Main Application Logic
+- Overview of the `CurrencyConverter` class and its structure.
+- Explanation of the static lists (`currencies` and `history`) and their initialization.
+- Description of the main method and its role in driving user interaction.
+
+## 7. Conversion Functionality and Digital Currencies
+- Detailed explanation of the conversion logic in the `convertCurrency` method.
+- Integration of digital currencies and handling different sets of currencies.
+- Importance of providing options for both fiat and digital currency conversions.
+
+## 8. Additional Features and Future Enhancements
+- Explanation of features such as comparing currency rates and viewing conversion history.
+- Discussion of potential future enhancements, including real-time exchange rate updates, more digital currencies, multi-language support, improved user interface, and error handling.
+
+## 9. Conclusion
+- Summary of the key points covered in the report.
+- Reinforcement of the importance and usefulness of the currency converter application.
+- Reflection on the project's achievements and potential for further development.
+
+## 10. References
+- Any external sources or references used in the project development.
+
+---
+
+Feel free to add more details or sections as needed based on your project's requirements. This structure provides a comprehensive overview of the project, its components, functionalities, and future prospects.
